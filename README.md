@@ -1,29 +1,37 @@
 # Organization-Normative-Framework-ONF
 
-At its essence, the ONF is a company-wide repository of Application Security Controls and processes. Looking Local will store and update ASCs in a central library called an ASC Library, which is part of the ONF. The ONF also specifies how and when a product should use a particular security activity, such as conducting a penetration test. It groups ASCs by level of trust, which is described in the ASC at <https://github.com/Tony-Thompson/Application-Security-Controls-and-processes>.
+Looking Local's ONF is a company-wide repository of Application Security Controls and processes. We will store and update ASCs in a central library called an ASC Library, which is part of the ONF. The ONF also specifies how and when a product should use a particular security activity, such as conducting a penetration test. It groups ASCs by level of trust, which is described in the ASC at <https://github.com/Tony-Thompson/Application-Security-Controls-and-processes>.
 
-The ONF also includes a list of all of the elements in the business, regulatory, and technological contexts. For example, a bank may have the following:
+This ONF also includes a list of all of the elements in our business, regulatory, and technological contexts. Taking BetterOff as an example, it may have the following:
 
 ## Business contexts:
 
-Application is an online banking application
-Application is internal facing
-Application is external facing
+Product is an online application enabling claimants to self serve by applying online for benefit assessments and applications
+
+Product is and external facing application
+
 Application allows money transfer
 
 ## Regulatory contexts:
 
 Application is subject to European Privacy Directive
-Application is subject to PCI DSS
+
+Application is subject to GDPR
+
 Application is subject to Gramm–Leach–Bliley Act (GLBA)
 
 ## Technological contexts:
 
 Application is web-based
+
 Application is an embedded system
+
 Application uses RESTful web services
+
 Application uses a SQL database
+
 Application uses Java
+
 
 The ONF application specifications repository, which is essentially a place to store functional requirements for all applications, can be found in our Application Lifecycle Management tool -  Atlassian JIRA. <https://cognovi.atlassian.net/>
 
