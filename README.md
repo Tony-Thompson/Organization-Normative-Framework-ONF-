@@ -1,4 +1,4 @@
-# Organization-Normative-Framework-ONF
+# Organisation Normative Framework (ONF)
 
 Looking Local's ONF is a company-wide repository of Application Security Controls and processes. We will store and update ASCs in a central library called an ASC Library, which is part of the ONF. The ONF also specifies how and when a product should use a particular security activity, such as conducting a penetration test. It groups ASCs by level of trust, which is described in the ASC at <https://github.com/Tony-Thompson/Application-Security-Controls-and-processes>.
 
