@@ -1,0 +1,32 @@
+# Kirklees Community Contacts
+
+## Business contexts:
+
+Product is an online application enabling users to look up the contact details of various organisations and charities in and around the Kirklees Area
+
+Product is an external facing mobile optimised application
+
+
+## Regulatory contexts:
+
+Application is not subject to European Privacy Directive
+
+Application is not subject to GDPR
+
+
+## Technological contexts:
+
+Application is web-based
+
+Application uses a Umbraco Lite database
+
+Application uses .NET and IIS
+
+
+## Application Life Cycle
+
+Created: 2017
+
+## Penetration test
+
+Date: never
