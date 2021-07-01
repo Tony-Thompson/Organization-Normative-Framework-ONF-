@@ -1,0 +1,33 @@
+# BetterOff
+
+## Business contexts:
+
+Product is an online application enabling claimants to self serve by applying online for benefit assessments and applications
+
+Product is and external facing application
+
+Application allows money transfer
+
+## Regulatory contexts:
+
+Application is subject to European Privacy Directive
+
+Application is subject to GDPR
+
+Application is subject to Gramm–Leach–Bliley Act (GLBA)
+
+## Technological contexts:
+
+Application is web-based
+
+Application is an embedded system
+
+Application uses RESTful web services
+
+Application uses a SQL database
+
+Application uses Java
+
+## Application Life Cycle
+
+Created: 
